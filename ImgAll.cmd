@@ -1,0 +1,26 @@
+
+java BMP2OneByte 11.bmp 11.bin &
+java BMP2OneByte 12.bmp 12.bin &
+java BMP2OneByte 13.bmp 13.bin &
+java BMP2OneByte 14.bmp 14.bin &
+java BMP2OneByte 15.bmp 15.bin &
+java BMP2OneByte 21.bmp 21.bin &
+java BMP2OneByte 22.bmp 22.bin &
+java BMP2OneByte 23.bmp 23.bin &
+java BMP2OneByte 24.bmp 24.bin &
+java BMP2OneByte 25.bmp 25.bin &
+java BMP2OneByte 31.bmp 31.bin &
+java BMP2OneByte 32.bmp 32.bin &
+java BMP2OneByte 33.bmp 33.bin &
+java BMP2OneByte 34.bmp 34.bin &
+java BMP2OneByte 35.bmp 35.bin &
+java BMP2OneByte 41.bmp 41.bin &
+java BMP2OneByte 42.bmp 42.bin &
+java BMP2OneByte 43.bmp 43.bin &
+java BMP2OneByte 44.bmp 44.bin &
+java BMP2OneByte 45.bmp 45.bin &
+java BMP2OneByte 51.bmp 51.bin &
+java BMP2OneByte 52.bmp 52.bin &
+java BMP2OneByte 53.bmp 53.bin &
+java BMP2OneByte 54.bmp 54.bin &
+java BMP2OneByte 55.bmp 55.bin &
